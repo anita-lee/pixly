@@ -12,7 +12,7 @@ Pix.ly is a `Flask BackEnd` application with Server Side Rendering. Images uploa
 
 ## DEMO
 
-[https://al-pixly.herokuapp.com/](https://al-pixly.herokuapp.com/)
+[DEMO](https://al-pixly.herokuapp.com/): Edit and/or upload your own images. 
 
 ## Getting Started
 
